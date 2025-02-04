@@ -17,7 +17,7 @@ We train a machine learning model using the development data and apply it to the
 ### Step 2: Exploratory Data Analysis (EDA)
 - **Distribution of Target Variable:** Analyze class distribution using a count plot.
   
-  ![Target Variable Distribution](image_placeholder)
+  ![Target Variable Distribution](git/Count.png)
   
 - **Null Values Analysis:** Check for missing values to decide on handling strategies.
 
@@ -46,7 +46,7 @@ The following models were evaluated:
 - **F1 Score:** Class 0 - 1.00, Class 1 - 0.81
 - **Confusion Matrix:**
   
-  ![Confusion Matrix - Random Forest](image_placeholder)
+  ![Confusion Matrix - Random Forest](git/Randomforest_CM.png)
   
 #### **Comparison with Other Models:**
 | Model       | AUC   | F1 Score |
